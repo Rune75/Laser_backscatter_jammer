@@ -1,2 +1,2 @@
-# Laser_backscatter_jammer
-Arduino code for jaming device for breaking laser backscatter communincation links
+# optical backscatter link jammer
+Arduino code for jaming device for breaking optical backscatter communincation links
